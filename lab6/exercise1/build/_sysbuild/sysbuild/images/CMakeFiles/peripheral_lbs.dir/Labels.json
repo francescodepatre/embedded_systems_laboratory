@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs-complete.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-build.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-configure.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-download.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-install.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-mkdir.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-patch.rule"
+		},
+		{
+			"file" : "/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"peripheral_lbs"
+		],
+		"name" : "peripheral_lbs"
+	}
+}

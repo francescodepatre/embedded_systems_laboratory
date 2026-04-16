@@ -1,0 +1,14 @@
+default: l4_e3
+build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build
+domains:
+  - name: l4_e3
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/l4_e3
+  - name: mcuboot
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/mcuboot
+  - name: empty_net_core
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/empty_net_core
+  - name: b0n
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/b0n
+flash_order:
+  - empty_net_core
+  - l4_e3

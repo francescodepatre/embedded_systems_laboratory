@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core-complete.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-build.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-configure.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-download.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-install.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-mkdir.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-patch.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"empty_net_core"
+		],
+		"name" : "empty_net_core"
+	}
+}

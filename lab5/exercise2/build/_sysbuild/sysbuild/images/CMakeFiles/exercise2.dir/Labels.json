@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/CMakeFiles/exercise2"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/CMakeFiles/exercise2.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/CMakeFiles/exercise2-complete.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-build.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-configure.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-download.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-install.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-mkdir.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-patch.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/exercise2-prefix/src/exercise2-stamp/exercise2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"exercise2"
+		],
+		"name" : "exercise2"
+	}
+}

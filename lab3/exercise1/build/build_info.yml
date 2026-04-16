@@ -1,0 +1,32 @@
+cmake:
+  application:
+    source-dir: /opt/nordic/ncs/v3.0.0/zephyr/share/sysbuild
+  board:
+    name: thingy53
+    path:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53
+    qualifiers: nrf5340/cpuapp/ns
+    revision: 
+  images:
+   - name: l3_e1
+     source-dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1
+     type: MAIN
+   - name: mcuboot
+     source-dir: /opt/nordic/ncs/v3.0.0/bootloader/mcuboot/boot/zephyr/
+     type: BOOTLOADER
+   - name: empty_net_core
+     source-dir: 
+   - name: b0n
+     source-dir: 
+  kconfig:
+    files:
+     - /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1/build/_sysbuild/empty.conf
+     - /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1/build/_sysbuild/empty.conf
+    user-files:
+     - /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1/build/_sysbuild/empty.conf
+  sysbuild: true
+version: 0.1.0
+west:
+  command: /opt/nordic/ncs/toolchains/ef4fc6722e/bin/west build --build-dir /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1/build /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e1 --pristine --board thingy53/nrf5340/cpuapp/ns -- -DCONFIG_DEBUG_THREAD_INFO=y
+  topdir: /opt/nordic/ncs/v3.0.0
+  version: 1.2.0

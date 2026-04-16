@@ -1,0 +1,13 @@
+# Target labels
+ empty_net_core
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/CMakeFiles/empty_net_core-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/modules/nrf/empty_net_core-prefix/src/empty_net_core-stamp/empty_net_core-update.rule

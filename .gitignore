@@ -1,0 +1,6 @@
+#Ignore these folders 
+bt-fund/
+ncs-fund/
+
+#Ignore these files
+nes-lab-nrf-parma.pdf

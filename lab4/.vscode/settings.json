@@ -1,0 +1,7 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/ex1_consolePrinting/l4_e1",
+        "${workspaceFolder}/ex2_loggerPrinting/l4_e2",
+        "${workspaceFolder}/ex3_loggerConf/l4_e3"
+    ]
+}

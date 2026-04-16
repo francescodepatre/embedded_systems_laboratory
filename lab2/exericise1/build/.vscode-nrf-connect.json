@@ -1,0 +1,17 @@
+{
+  "toolchainPath": "/opt/nordic/ncs/toolchains/ef4fc6722e",
+  "sdkPath": "/opt/nordic/ncs/v3.0.0",
+  "board": "thingy53/nrf5340/cpuapp/ns",
+  "boardDir": "/opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53",
+  "boardDirs": [
+    "/opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

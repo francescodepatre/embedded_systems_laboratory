@@ -1,0 +1,13 @@
+# Target labels
+ tfm
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab2/ncs-fund/l2/l2_e1/build/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule

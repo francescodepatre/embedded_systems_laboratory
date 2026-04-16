@@ -1,0 +1,13 @@
+# Target labels
+ peripheral_lbs
+# Source files and their labels
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_lbs-complete.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-build.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-configure.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-download.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-install.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-mkdir.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-patch.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/sysbuild/images/peripheral_lbs-prefix/src/peripheral_lbs-stamp/peripheral_lbs-update.rule

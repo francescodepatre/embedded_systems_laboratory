@@ -1,0 +1,14 @@
+default: l3_e2
+build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build
+domains:
+  - name: l3_e2
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/l3_e2
+  - name: mcuboot
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/mcuboot
+  - name: empty_net_core
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/empty_net_core
+  - name: b0n
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/b0n
+flash_order:
+  - empty_net_core
+  - l3_e2

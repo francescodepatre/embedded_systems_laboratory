@@ -1,0 +1,58 @@
+cmake:
+  application:
+    configuration-dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs
+    source-dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs
+  board:
+    name: thingy53
+    path:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53
+    qualifiers: nrf5340/cpuapp/ns
+    revision: 
+  devicetree:
+    bindings-dirs:
+     - /opt/nordic/ncs/v3.0.0/nrf/dts/bindings
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/bindings
+    files:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53/thingy53_nrf5340_cpuapp_ns.dts
+    include-dirs:
+     - /opt/nordic/ncs/v3.0.0/nrf/include
+     - /opt/nordic/ncs/v3.0.0/nrf/dts/common
+     - /opt/nordic/ncs/v3.0.0/nrf/dts/riscv
+     - /opt/nordic/ncs/v3.0.0/nrf/dts/arm
+     - /opt/nordic/ncs/v3.0.0/nrf/dts
+     - /opt/nordic/ncs/v3.0.0/zephyr/include
+     - /opt/nordic/ncs/v3.0.0/zephyr/include/zephyr
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/common
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/x86
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/xtensa
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/sparc
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/riscv
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/posix
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/nios2
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/arm64
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/arm
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts/arc
+     - /opt/nordic/ncs/v3.0.0/zephyr/dts
+  images:
+   - name: tfm
+     source-dir: /opt/nordic/ncs/v3.0.0/modules/tee/tf-m/trusted-firmware-m
+  kconfig:
+    files:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53/thingy53_nrf5340_cpuapp_ns_defconfig
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/prj.conf
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/boards/thingy53_nrf5340_cpuapp_ns.conf
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/zephyr/misc/generated/extra_kconfig_options.conf
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/zephyr/.config.sysbuild
+    user-files:
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/prj.conf
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/boards/thingy53_nrf5340_cpuapp_ns.conf
+  toolchain:
+    name: zephyr
+    path: /opt/nordic/ncs/toolchains/ef4fc6722e/opt/zephyr-sdk
+  vendor-specific:
+    nordic:
+      svdfile: /opt/nordic/ncs/v3.0.0/modules/hal/nordic/nrfx/mdk/nrf5340_application.svd
+  zephyr:
+    version: 4.0.99
+    zephyr-base: /opt/nordic/ncs/v3.0.0/zephyr
+version: 0.1.0

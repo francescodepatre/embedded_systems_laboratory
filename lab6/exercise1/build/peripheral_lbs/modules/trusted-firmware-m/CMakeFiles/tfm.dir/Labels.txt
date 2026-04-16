@@ -1,0 +1,13 @@
+# Target labels
+ tfm
+# Source files and their labels
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/CMakeFiles/tfm
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/CMakeFiles/tfm.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule
+/opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule

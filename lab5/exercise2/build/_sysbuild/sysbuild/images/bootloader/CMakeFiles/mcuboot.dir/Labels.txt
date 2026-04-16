@@ -1,0 +1,13 @@
+# Target labels
+ mcuboot
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab5/exercise2/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-update.rule

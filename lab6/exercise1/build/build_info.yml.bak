@@ -1,0 +1,29 @@
+cmake:
+  board:
+    name: thingy53
+    path:
+     - /opt/nordic/ncs/v3.0.0/zephyr/boards/nordic/thingy53
+    qualifiers: nrf5340/cpuapp/ns
+    revision: 
+  images:
+   - name: peripheral_lbs
+     source-dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs
+     type: MAIN
+   - name: mcuboot
+     source-dir: /opt/nordic/ncs/v3.0.0/bootloader/mcuboot/boot/zephyr/
+     type: BOOTLOADER
+   - name: ipc_radio
+     source-dir: 
+   - name: b0n
+     source-dir: 
+  kconfig:
+    files:
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/empty.conf
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/empty.conf
+    user-files:
+     - /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/_sysbuild/empty.conf
+version: 0.1.0
+west:
+  command: /opt/nordic/ncs/toolchains/ef4fc6722e/bin/west build --build-dir /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs --pristine --board thingy53/nrf5340/cpuapp/ns -- -DCONFIG_DEBUG_THREAD_INFO=y
+  topdir: /opt/nordic/ncs/v3.0.0
+  version: 1.2.0

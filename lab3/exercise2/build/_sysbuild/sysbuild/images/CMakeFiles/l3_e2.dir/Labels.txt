@@ -1,0 +1,13 @@
+# Target labels
+ l3_e2
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e2
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e2.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e2-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab3/l3_e2/build/_sysbuild/sysbuild/images/l3_e2-prefix/src/l3_e2-stamp/l3_e2-update.rule

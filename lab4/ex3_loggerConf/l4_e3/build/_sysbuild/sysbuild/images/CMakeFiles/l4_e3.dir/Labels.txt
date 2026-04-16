@@ -1,0 +1,13 @@
+# Target labels
+ l4_e3
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex3_loggerConf/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-update.rule

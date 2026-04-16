@@ -1,0 +1,14 @@
+default: peripheral_lbs
+build_dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build
+domains:
+  - name: peripheral_lbs
+    build_dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/peripheral_lbs
+  - name: mcuboot
+    build_dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/mcuboot
+  - name: ipc_radio
+    build_dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/ipc_radio
+  - name: b0n
+    build_dir: /opt/nordic/ncs/v3.0.0/nrf/samples/bluetooth/peripheral_lbs/build/b0n
+flash_order:
+  - ipc_radio
+  - peripheral_lbs

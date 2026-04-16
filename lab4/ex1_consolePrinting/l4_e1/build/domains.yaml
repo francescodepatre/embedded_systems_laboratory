@@ -1,0 +1,14 @@
+default: l4_e1
+build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex1_consolePrinting/l4_e1/build
+domains:
+  - name: l4_e1
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex1_consolePrinting/l4_e1/build/l4_e1
+  - name: mcuboot
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex1_consolePrinting/l4_e1/build/mcuboot
+  - name: empty_net_core
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex1_consolePrinting/l4_e1/build/empty_net_core
+  - name: b0n
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab4/ex1_consolePrinting/l4_e1/build/b0n
+flash_order:
+  - empty_net_core
+  - l4_e1
