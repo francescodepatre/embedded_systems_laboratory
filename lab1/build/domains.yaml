@@ -1,0 +1,14 @@
+default: lab1
+build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build
+domains:
+  - name: lab1
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/lab1
+  - name: mcuboot
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/mcuboot
+  - name: empty_net_core
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/empty_net_core
+  - name: b0n
+    build_dir: /Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/b0n
+flash_order:
+  - empty_net_core
+  - lab1

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1-complete.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-build.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-configure.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-download.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-install.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-mkdir.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-patch.rule"
+		},
+		{
+			"file" : "/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lab1"
+		],
+		"name" : "lab1"
+	}
+}

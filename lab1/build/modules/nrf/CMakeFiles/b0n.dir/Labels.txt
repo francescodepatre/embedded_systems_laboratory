@@ -1,0 +1,13 @@
+# Target labels
+ b0n
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/CMakeFiles/b0n
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/CMakeFiles/b0n.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/CMakeFiles/b0n-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-update.rule

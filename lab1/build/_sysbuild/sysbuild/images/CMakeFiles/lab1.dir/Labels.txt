@@ -1,0 +1,13 @@
+# Target labels
+ lab1
+# Source files and their labels
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/CMakeFiles/lab1-complete.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-build.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-configure.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-download.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-install.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-mkdir.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-patch.rule
+/Users/francescodepatre/Desktop/EmbeddedSystems/labs/lab1/build/_sysbuild/sysbuild/images/lab1-prefix/src/lab1-stamp/lab1-update.rule
